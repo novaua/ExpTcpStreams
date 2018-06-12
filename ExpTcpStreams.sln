@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpTcpClient", "ExpTcpClient\ExpTcpClient.csproj", "{9B72612C-B2FF-4686-B363-B27CD0CC337F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpTcpServer", "ExpTcpServer\ExpTcpServer.csproj", "{985CB75E-B9EA-4FC1-84F5-40DC563D6DF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpTcpCommon", "ExpTcpCommon\ExpTcpCommon.csproj", "{7F96413A-6409-4AE6-9BF5-F754C4FFA86F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpTcpTests", "ExpTcpTests\ExpTcpTests.csproj", "{8D189F20-2235-4D2C-9311-FB51A09EAB9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B72612C-B2FF-4686-B363-B27CD0CC337F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B72612C-B2FF-4686-B363-B27CD0CC337F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B72612C-B2FF-4686-B363-B27CD0CC337F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B72612C-B2FF-4686-B363-B27CD0CC337F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{985CB75E-B9EA-4FC1-84F5-40DC563D6DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985CB75E-B9EA-4FC1-84F5-40DC563D6DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985CB75E-B9EA-4FC1-84F5-40DC563D6DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985CB75E-B9EA-4FC1-84F5-40DC563D6DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F96413A-6409-4AE6-9BF5-F754C4FFA86F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F96413A-6409-4AE6-9BF5-F754C4FFA86F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F96413A-6409-4AE6-9BF5-F754C4FFA86F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F96413A-6409-4AE6-9BF5-F754C4FFA86F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D189F20-2235-4D2C-9311-FB51A09EAB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D189F20-2235-4D2C-9311-FB51A09EAB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D189F20-2235-4D2C-9311-FB51A09EAB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D189F20-2235-4D2C-9311-FB51A09EAB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
